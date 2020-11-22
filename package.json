@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/substack/rsa-json.git"
+    "url": "git://github.com/isaccanedo/rsa-json"
   },
   "scripts": {
     "test": "tape test/*.js"
   },
-  "homepage": "https://github.com/substack/rsa-json",
+  "homepage": "https://github.com/isaccanedo/rsa-json",
   "keywords": [
     "rsa",
     "json",
@@ -32,9 +32,7 @@
     "key"
   ],
   "author": {
-    "name": "James Halliday",
-    "email": "mail@substack.net",
-    "url": "http://substack.net"
+    "name": "Isac Canedo"
   },
   "testling": {
     "files": "test/native.js",
